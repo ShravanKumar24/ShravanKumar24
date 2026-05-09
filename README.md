@@ -29,7 +29,6 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [E-Commerce Testing](https://github.com/ShravanKumar24/Amazon_Testing) | Selenium automation for e-commerce app | Java, Selenium, TestNG |
-| [API Testing](https://github.com/ShravanKumar24/Api_Testing) | REST API automation with REST Assured | Java, REST Assured, Postman |
 | [E-Commerce Backend](https://github.com/ShravanKumar24/e-commerce_backend) | Spring Boot REST API backend | Java, Spring Boot, MySQL |
 
 ---
